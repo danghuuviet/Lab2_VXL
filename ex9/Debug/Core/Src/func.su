@@ -1,0 +1,4 @@
+func.c:14:6:clearcol	8	static
+func.c:25:6:updatecol	16	static
+func.c:61:6:updaterow	16	static
+func.c:72:6:updateLEDMatrix	16	static

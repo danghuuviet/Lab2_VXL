@@ -1,0 +1,3 @@
+function_configuration.c:14:6:display7SEG1	24	static
+function_configuration.c:29:6:update7SEG	16	static
+function_configuration.c:56:6:HAL_TIM_PeriodElapsedCallback	16	static

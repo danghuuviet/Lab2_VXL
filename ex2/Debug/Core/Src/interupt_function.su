@@ -1,0 +1,2 @@
+interupt_function.c:13:6:display7SEG1	24	static
+interupt_function.c:52:6:HAL_TIM_PeriodElapsedCallback	16	static
